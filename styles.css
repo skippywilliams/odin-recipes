@@ -1,0 +1,16 @@
+#title {
+    background-color: blanchedalmond;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(1, 80, 36);
+    border-radius: 8px;
+    height: 500px;
+    width: auto;
+}
